@@ -1,0 +1,12 @@
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\model\Book.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\model\Loan.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\model\Member.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\repo\BookRepository.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\repo\LoanRepository.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\repo\mem\InMemoryBookRepository.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\repo\mem\InMemoryLoanRepository.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\repo\mem\InMemoryMemberRepository.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\repo\MemberRepository.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\service\DomainException.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\service\LoanService.java
+C:\Users\Tecsup\Downloads\biblioteca-loans-java-full\src\main\java\com\kelvinpinto\library\util\ClockProvider.java

@@ -1,0 +1,12 @@
+com\kelvinpinto\library\model\Loan.class
+com\kelvinpinto\library\repo\mem\InMemoryLoanRepository.class
+com\kelvinpinto\library\repo\mem\InMemoryMemberRepository.class
+com\kelvinpinto\library\service\LoanService.class
+com\kelvinpinto\library\repo\mem\InMemoryBookRepository.class
+com\kelvinpinto\library\repo\MemberRepository.class
+com\kelvinpinto\library\service\DomainException.class
+com\kelvinpinto\library\model\Member.class
+com\kelvinpinto\library\repo\LoanRepository.class
+com\kelvinpinto\library\repo\BookRepository.class
+com\kelvinpinto\library\util\ClockProvider.class
+com\kelvinpinto\library\model\Book.class
